@@ -1,4 +1,4 @@
-.. currentmodule:: pylabrobot
+﻿.. currentmodule:: pylabrobot
 
 pylabrobot.resources package
 ============================
